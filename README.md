@@ -1,2 +1,4 @@
-# Hello World
- primeiro repositorio
+# Hello, World !
+ primeiro repositório
+
+Feito duranto o curso de github
